@@ -39,7 +39,7 @@ public class Main {
 // The method should return the sum of even digits within the number. If the number is negative, method should return -1;
 // -----------------------------------------------
 //    public static void main(String[] args) {
-//        System.out.println(getEvenDigitSum(67874398));}
+//        System.out.println(getEvenDigitSum(454382910));}
 //
 //    public static int getEvenDigitSum ( int digit){
 //        System.out.println("\nDigit for sum even numbers is " + digit);
